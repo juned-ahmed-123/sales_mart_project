@@ -1,12 +1,6 @@
 # aws credentials
-# Access0_key="AKIA3RYC5VIJLPPPEU53"
-from distutils.command.upload import upload
-
 access0_key=b'Df2hDzMtC82j6/7yFeYB9XQ6MnSGldo5CCTMLfkvpCM='
-# Secret_access_key="5gMWzydW2/krtPLuDuqpz81/m8MCPVdZamyNGHKX"
 Secret_access_key=b'pY/kwrxtSvzL7a1m4XVbzosS4HIi0FPWDbNIApWdOKACh3pBy5GISMXBcUpH0DWn'
-# encrypt_keys=encrypt("5gMWzydW2/krtPLuDuqpz81/m8MCPVdZamyNGHKX")
-# print(encrypt_keys)
 key="sales_mart_project"
 iv="sales_mart_encrp"
 salt="sales_mart_AesEncryption"
